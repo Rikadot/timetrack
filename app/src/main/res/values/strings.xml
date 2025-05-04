@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">time track</string>
+    <string name="timetracker">placeholder</string>
+    <string name="start_work">Arbeitszeit starten</string>
+    <string name="stop_work">Arbeitszeit beenden</string>
+    <string name="start_break">Pause starten</string>
+    <string name="stop_break">Pause beenden</string>
+</resources>
